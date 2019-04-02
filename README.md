@@ -13,7 +13,7 @@ git clone https://github.com/felipevmartins/TestQuay.git
 
 
 ### Instalar projeto:
-Na pasta QUAY.Frontend/frontend rodar pelo terminal do VS Code ou pelo PowerShell:
+Na pasta QUAY.Frontend rodar pelo terminal do VS Code ou pelo PowerShell:
 
 ```javascript
 npm i
