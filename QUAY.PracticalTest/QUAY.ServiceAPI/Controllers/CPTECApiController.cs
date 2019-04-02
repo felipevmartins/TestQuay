@@ -1,13 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Xml;
 using System.Xml.Serialization;
 using Microsoft.AspNetCore.Mvc;
-using Newtonsoft.Json;
 using QUAY.Models;
 using RestSharp;
 
@@ -31,15 +26,12 @@ namespace QUAY.ServiceAPI.Controllers
         public Cidade GetCity(int cityId)
         {
             var client = new RestClient($"http://servicos.cptec.inpe.br/XML/cidade/7dias/{cityId}/previsao.xml");
-            // client.Authenticator = new HttpBasicAuthenticator(username, password);
             var request = new RestRequest();
             request.XmlSerializer = new RestSharp.Serializers.DotNetXmlSerializer();
             request.RequestFormat = DataFormat.Xml;
 
-
-            // execute the request
             IRestResponse response = client.Execute(request);
-            var content = response.Content; // raw content as string
+            var content = response.Content; 
 
             var strReader = new StringReader(content);
             var serializer = new XmlSerializer(typeof(Cidade));
@@ -62,9 +54,8 @@ namespace QUAY.ServiceAPI.Controllers
                 RequestFormat = DataFormat.Xml
             };
 
-            // execute the request
             var response = client.Execute<Cidades>(request);
-            var content = response.Data; // raw content as string
+            var content = response.Data;
 
             return content.cidades;
         }

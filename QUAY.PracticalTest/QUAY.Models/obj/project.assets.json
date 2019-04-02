@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\102231\\Downloads\\Teste\\QUAY.PracticalTest\\QUAY.Models\\QUAY.Models.csproj",
+      "projectUniqueName": "C:\\Users\\102231\\Downloads\\Teste\\TestQuay\\QUAY.PracticalTest\\QUAY.Models\\QUAY.Models.csproj",
       "projectName": "QUAY.Models",
-      "projectPath": "C:\\Users\\102231\\Downloads\\Teste\\QUAY.PracticalTest\\QUAY.Models\\QUAY.Models.csproj",
+      "projectPath": "C:\\Users\\102231\\Downloads\\Teste\\TestQuay\\QUAY.PracticalTest\\QUAY.Models\\QUAY.Models.csproj",
       "packagesPath": "C:\\Users\\102231\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\102231\\Downloads\\Teste\\QUAY.PracticalTest\\QUAY.Models\\obj\\",
+      "outputPath": "C:\\Users\\102231\\Downloads\\Teste\\TestQuay\\QUAY.PracticalTest\\QUAY.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

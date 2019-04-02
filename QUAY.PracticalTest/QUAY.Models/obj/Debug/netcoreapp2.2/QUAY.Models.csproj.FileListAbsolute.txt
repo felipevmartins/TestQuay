@@ -7,3 +7,12 @@ C:\Users\102231\Downloads\Teste\QUAY.PracticalTest\QUAY.Models\obj\Debug\netcore
 C:\Users\102231\Downloads\Teste\QUAY.PracticalTest\QUAY.Models\obj\Debug\netcoreapp2.2\QUAY.Models.dll
 C:\Users\102231\Downloads\Teste\QUAY.PracticalTest\QUAY.Models\obj\Debug\netcoreapp2.2\QUAY.Models.pdb
 C:\Users\102231\Downloads\Teste\QUAY.PracticalTest\QUAY.Models\obj\Debug\netcoreapp2.2\QUAY.Models.csprojAssemblyReference.cache
+C:\Users\102231\Downloads\Teste\TestQuay\QUAY.PracticalTest\QUAY.Models\bin\Debug\netcoreapp2.2\QUAY.Models.deps.json
+C:\Users\102231\Downloads\Teste\TestQuay\QUAY.PracticalTest\QUAY.Models\bin\Debug\netcoreapp2.2\QUAY.Models.dll
+C:\Users\102231\Downloads\Teste\TestQuay\QUAY.PracticalTest\QUAY.Models\bin\Debug\netcoreapp2.2\QUAY.Models.pdb
+C:\Users\102231\Downloads\Teste\TestQuay\QUAY.PracticalTest\QUAY.Models\obj\Debug\netcoreapp2.2\QUAY.Models.csprojAssemblyReference.cache
+C:\Users\102231\Downloads\Teste\TestQuay\QUAY.PracticalTest\QUAY.Models\obj\Debug\netcoreapp2.2\QUAY.Models.csproj.CoreCompileInputs.cache
+C:\Users\102231\Downloads\Teste\TestQuay\QUAY.PracticalTest\QUAY.Models\obj\Debug\netcoreapp2.2\QUAY.Models.AssemblyInfoInputs.cache
+C:\Users\102231\Downloads\Teste\TestQuay\QUAY.PracticalTest\QUAY.Models\obj\Debug\netcoreapp2.2\QUAY.Models.AssemblyInfo.cs
+C:\Users\102231\Downloads\Teste\TestQuay\QUAY.PracticalTest\QUAY.Models\obj\Debug\netcoreapp2.2\QUAY.Models.dll
+C:\Users\102231\Downloads\Teste\TestQuay\QUAY.PracticalTest\QUAY.Models\obj\Debug\netcoreapp2.2\QUAY.Models.pdb

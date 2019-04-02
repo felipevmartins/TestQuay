@@ -13161,11 +13161,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\102231\\Downloads\\Teste\\QUAY.PracticalTest\\QUAY.ServiceAPI\\QUAY.ServiceAPI.csproj",
+      "projectUniqueName": "C:\\Users\\102231\\Downloads\\Teste\\TestQuay\\QUAY.PracticalTest\\QUAY.ServiceAPI\\QUAY.ServiceAPI.csproj",
       "projectName": "QUAY.ServiceAPI",
-      "projectPath": "C:\\Users\\102231\\Downloads\\Teste\\QUAY.PracticalTest\\QUAY.ServiceAPI\\QUAY.ServiceAPI.csproj",
+      "projectPath": "C:\\Users\\102231\\Downloads\\Teste\\TestQuay\\QUAY.PracticalTest\\QUAY.ServiceAPI\\QUAY.ServiceAPI.csproj",
       "packagesPath": "C:\\Users\\102231\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\102231\\Downloads\\Teste\\QUAY.PracticalTest\\QUAY.ServiceAPI\\obj\\",
+      "outputPath": "C:\\Users\\102231\\Downloads\\Teste\\TestQuay\\QUAY.PracticalTest\\QUAY.ServiceAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13185,8 +13185,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\102231\\Downloads\\Teste\\QUAY.PracticalTest\\QUAY.Models\\QUAY.Models.csproj": {
-              "projectPath": "C:\\Users\\102231\\Downloads\\Teste\\QUAY.PracticalTest\\QUAY.Models\\QUAY.Models.csproj"
+            "C:\\Users\\102231\\Downloads\\Teste\\TestQuay\\QUAY.PracticalTest\\QUAY.Models\\QUAY.Models.csproj": {
+              "projectPath": "C:\\Users\\102231\\Downloads\\Teste\\TestQuay\\QUAY.PracticalTest\\QUAY.Models\\QUAY.Models.csproj"
             }
           }
         }
