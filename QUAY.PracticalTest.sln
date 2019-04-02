@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QUAY.PracticalTest", "QUAY.PracticalTest\QUAY.PracticalTest.csproj", "{69568E4C-6E1D-4177-8B6C-7A91DD4680F7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - UI", "01 - UI", "{4C19DBC3-2511-4BA3-8DA7-35C69B098187}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 - Services", "02 - Services", "{228D3332-0670-4A48-9247-C03F163E9F6A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 - Models", "03 - Models", "{B65356F9-B50D-428D-A108-8D9D0400E582}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QUAY.Models", "QUAY.Models\QUAY.Models.csproj", "{06589136-BCA4-42E7-AFA4-F7689BAF7E81}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 - Tests", "04 - Tests", "{0F687093-CDB0-4B1E-A97D-6DBB7A068AFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QUAY.PracticalTest.Tests", "QUAY.PracticalTest.Tests\QUAY.PracticalTest.Tests.csproj", "{B249CA51-A3B1-4D87-878D-8FB1975CC688}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QUAY.ServiceAPI", "QUAY.ServiceAPI\QUAY.ServiceAPI.csproj", "{03C507FA-7769-4D6A-8DF0-0A41D2AFC98A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69568E4C-6E1D-4177-8B6C-7A91DD4680F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69568E4C-6E1D-4177-8B6C-7A91DD4680F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69568E4C-6E1D-4177-8B6C-7A91DD4680F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69568E4C-6E1D-4177-8B6C-7A91DD4680F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06589136-BCA4-42E7-AFA4-F7689BAF7E81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06589136-BCA4-42E7-AFA4-F7689BAF7E81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06589136-BCA4-42E7-AFA4-F7689BAF7E81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06589136-BCA4-42E7-AFA4-F7689BAF7E81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B249CA51-A3B1-4D87-878D-8FB1975CC688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B249CA51-A3B1-4D87-878D-8FB1975CC688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B249CA51-A3B1-4D87-878D-8FB1975CC688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B249CA51-A3B1-4D87-878D-8FB1975CC688}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03C507FA-7769-4D6A-8DF0-0A41D2AFC98A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03C507FA-7769-4D6A-8DF0-0A41D2AFC98A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03C507FA-7769-4D6A-8DF0-0A41D2AFC98A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03C507FA-7769-4D6A-8DF0-0A41D2AFC98A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{69568E4C-6E1D-4177-8B6C-7A91DD4680F7} = {4C19DBC3-2511-4BA3-8DA7-35C69B098187}
+		{06589136-BCA4-42E7-AFA4-F7689BAF7E81} = {B65356F9-B50D-428D-A108-8D9D0400E582}
+		{B249CA51-A3B1-4D87-878D-8FB1975CC688} = {0F687093-CDB0-4B1E-A97D-6DBB7A068AFB}
+		{03C507FA-7769-4D6A-8DF0-0A41D2AFC98A} = {228D3332-0670-4A48-9247-C03F163E9F6A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB25C179-4972-449E-A514-DDFC8BE15FA7}
+	EndGlobalSection
+EndGlobal
